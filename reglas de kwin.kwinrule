@@ -1,0 +1,86 @@
+[Preferencias para la aplicación SpaceCadetPinball]
+Description=Preferencias para la aplicación SpaceCadetPinball
+clientmachine=localhost
+position=0,0
+positionrule=3
+size=1366,724
+sizerule=3
+wmclass=SpaceCadetPinball
+wmclassmatch=1
+
+[Preferencias para la aplicación Vboard.py]
+Description=Preferencias para la aplicación Vboard.py
+acceptfocusrule=2
+clientmachine=localhost
+skippager=true
+skippagerrule=2
+wmclass=vboard.py Vboard.py
+wmclasscomplete=true
+wmclassmatch=1
+
+[Preferencias para la aplicación kitty]
+Description=Preferencias para la aplicación kitty
+placementrule=2
+types=1
+wmclass=kitty
+wmclassmatch=1
+
+[Preferencias para la aplicación org.kde.dolphin]
+Description=Preferencias para la aplicación org.kde.dolphin
+opacityactive=85
+opacityactiverule=2
+opacityinactive=80
+opacityinactiverule=2
+placementrule=2
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[Preferencias para la aplicación org.kde.konsole]
+Description=Preferencias para la aplicación org.kde.konsole
+opacityactive=94
+opacityactiverule=2
+opacityinactive=83
+opacityinactiverule=2
+placementrule=2
+size=835,511
+sizerule=3
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[org.kde.dolphin borrar]
+Description=org.kde.dolphin borrar
+placementrule=2
+size=500,200
+sizerule=3
+title=Borrar
+titlematch=2
+types=1
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[org.kde.dolphin emergente]
+Description=org.kde.dolphin emergente
+placementrule=2
+size=500,200
+sizerule=2
+title=Dolphin
+titlematch=1
+types=288
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[org.kde.dolphin posicion]
+Description=org.kde.dolphin posicion
+placementrule=2
+size=683,542
+sizerule=3
+title=— Dolphin
+titlematch=2
+types=1
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
