@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Super Cat Tales 2
+Exec=waydroid app launch com.neutronized.supercattales2
+Icon=/home/arky/.local/share/waydroid/data/icons/com.neutronized.supercattales2.png
+Categories=X-WayDroid-App;
+X-Purism-FormFactor=Workstation;Mobile;
+Actions=app-settings;
+
+[Desktop Action app-settings]
+Name=App Settings
+Exec=waydroid app intent android.settings.APPLICATION_DETAILS_SETTINGS package:com.neutronized.supercattales2
+Icon=/home/arky/.local/share/waydroid/data/icons/com.android.settings.png

@@ -1,0 +1,31 @@
+[Desktop Entry]
+Actions=new-window;new-file;
+Categories=TextEditor;Development;
+Comment=Sophisticated text editor for code, markup and prose
+Exec=/snap/bin/sublime-text.subl %F
+GenericName=Text Editor
+Icon=/snap/sublime-text/current/usr/share/icons/hicolor/256x256/apps/sublime-text.png
+MimeType=text/plain;
+Name=Sublime Text
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-SnapAppName=subl
+X-SnapInstanceName=sublime-text
+
+[Desktop Action new-file]
+Exec=/snap/bin/sublime-text.subl --command new_file
+Name=New File
+X-SnapAppName=subl
+
+[Desktop Action new-window]
+Exec=/snap/bin/sublime-text.subl --launch-or-new-window
+Name=New Window
+X-SnapAppName=subl

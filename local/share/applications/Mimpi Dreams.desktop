@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mimpi Dreams
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/444770
+Icon=steam_icon_444770
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Reactable
+Exec=waydroid app launch com.reactable
+Icon=/home/arky/.local/share/waydroid/data/icons/com.reactable.png
+Categories=X-WayDroid-App;
+X-Purism-FormFactor=Workstation;Mobile;
+Actions=app-settings;
+
+[Desktop Action app-settings]
+Name=App Settings
+Exec=waydroid app intent android.settings.APPLICATION_DETAILS_SETTINGS package:com.reactable
+Icon=/home/arky/.local/share/waydroid/data/icons/com.android.settings.png

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=winbox
+Exec=/home/arky/Programas/WinBox_Linux/WinBox
+Icon=/home/arky/Programas/WinBox_Linux/assets/img/winbox.png
+Name=WINBOX
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;
+

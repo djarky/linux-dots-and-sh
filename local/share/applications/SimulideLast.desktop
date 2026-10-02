@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Simulide Last
+Comment=lasted
+Exec=/home/arky/Programas/SimulIDE_1.1.0-SR0_Lin64/simulide
+GenericName=Electronic circuit simulator
+Icon=simulide
+Terminal=false
+Categories=Electronics;

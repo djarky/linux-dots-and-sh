@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Pump It Up (StepMania)
+Comment=Juego Pump It Up en StepMania
+Exec=/home/arky/Programas/PIU/SMA-Beta5.9.5-20200720/Program/StepMania
+Icon=/home/arky/Programas/PIU/SMA-Beta5.9.5-20200720/Program/icon.png
+Terminal=false
+Categories=Game;

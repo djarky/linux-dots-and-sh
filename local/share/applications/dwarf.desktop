@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=Development;Electronics;Engineering;
+Comment[es_BO]=Fash PIC with Pickit via pk2cmd GUI
+Comment=Fash PIC with Pickit via pk2cmd GUI
+Exec=/home/arky/Programas/dwarf
+GenericName[es_BO]=
+GenericName=
+Icon=/home/arky/Programas/dwarf.svg
+Keywords=electronics;pic;microcontroller;
+MimeType=
+Name[es_BO]=
+Name=
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=

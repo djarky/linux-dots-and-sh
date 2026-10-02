@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Re-Volt port for Linux
+Terminal=false
+Name=RVGL
+Type=Application
+Categories=Game;ArcadeGame;
+Path=/home/arky/Programas/rvgl
+Exec=/home/arky/Programas/rvgl/rvgl
+Icon=/home/arky/Programas/rvgl/icons/256x256/apps/rvgl.png

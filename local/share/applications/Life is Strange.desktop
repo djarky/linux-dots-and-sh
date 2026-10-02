@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Life is Strange™
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/319630
+Icon=steam_icon_319630
+Terminal=false
+Type=Application
+Categories=Game;

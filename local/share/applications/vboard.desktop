@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=bash -c 'python3 /home/arky/Programas/vboard.py'
+Icon=preferences-desktop-keyboard
+Name=Vboard
+Terminal=false
+Type=Application
+Categories=Utility
+NoDisplay=false

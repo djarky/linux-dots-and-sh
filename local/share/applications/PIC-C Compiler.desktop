@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PIC-C Compiler
+Exec=env WINEPREFIX="/home/arky/.wine" wine-stable C:\\\\Program\\ Files\\ \\(x86\\)\\\\PICC\\\\pcw.exe 
+Type=Application
+StartupNotify=true
+Comment=PIC-C Compiler
+Icon=F419_pcw.0
+StartupWMClass=pcw.exe
+Categories=Electronics;

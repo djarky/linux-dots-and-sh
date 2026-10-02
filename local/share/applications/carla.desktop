@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=AudioVideo;X-AudioEditing;Qt;
+Comment=Audio Plugin Host
+Exec=pw-jack carla %u
+GenericName=Carla Plugin Host
+Icon=carla
+MimeType=application/x-carla-project;
+Name=Carla
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=

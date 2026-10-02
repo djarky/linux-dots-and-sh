@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=YouTube Music
+Exec=/home/arky/Programas/YTmusic/Glassy-Music-4.0.0.AppImage
+Icon=/home/arky/Programas/YTmusic/icon.png
+Name=YouTube Music
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;AudioVideo;;
+

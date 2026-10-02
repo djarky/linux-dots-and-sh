@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=maquina virtual arch
+Exec=/home/arky/DevS/battery_vm/start_arch.sh
+Icon=/home/arky/DevS/battery_vm/arch.png
+Name=Cachy OS VM
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Development;
+

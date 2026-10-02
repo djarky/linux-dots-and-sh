@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=ConsoleOnly;System;FileTools;FileManager
+Comment=Launches the ranger file manager
+Exec=kitty ranger
+Icon=utilities-terminal
+Keywords=File;Manager;Browser;Explorer;Launcher;Vi;Vim;Python
+MimeType=inode/directory;
+Name=ranger
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

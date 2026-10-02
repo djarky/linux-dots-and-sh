@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Development;Electronics;Engineering;
+Comment=Build and simulate electronic circuits
+Exec=env QT_QPA_PLATFORMTHEME=qt5ct QT_STYLE_OVERRIDE=Fusion simulide
+GenericName=Electronic circuit simulator
+Icon=simulide
+Keywords=embedded electronics;electronics;avr;pic;microcontroller;
+Name=SimulIDE Circuit Simulator
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=

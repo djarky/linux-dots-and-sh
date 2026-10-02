@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=maquina virtual ubuntu
+Exec=/home/arky/DevS/battery_vm/start_ubuntu.sh
+Icon=/home/arky/DevS/battery_vm/ubuntu.png
+Name=UbuntuVM
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Development;
+

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=PrismLauncher
+Comment=Lanzador de PrismLauncher
+Exec=/home/arky/Programas//PrismLauncher/PrismLauncher
+Icon=/home/arky/Programas///PrismLauncher/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Game;

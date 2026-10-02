@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=EAGLE
+Comment=pcb desing
+Exec=LIBGL_ALWAYS_SOFTWARE=1 GDK_BACKEND=x11 /home/arky/Programas/eagle-9.6.2/eagle
+Icon=/home/arky/Programas/eagle-9.6.2/bin/eagle-logo.png
+Terminal=false
+Categories=Development;Electronics;

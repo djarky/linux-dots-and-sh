@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=maquina virtual windows
+Exec=/home/arky/DevS/battery_vm/start_windows.sh
+Icon=/home/arky/DevS/battery_vm/win10.png
+Name=WindowsVM
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Development;
+

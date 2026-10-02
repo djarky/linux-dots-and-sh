@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=CARDINAL
+Comment=modular synth
+Exec=/home/arky/Programas/synth/Cardinal-linux-x86_64-26.02/CardinalNative
+Icon=/home/arky/Programas/synth/Cardinal-linux-x86_64-26.02/docs/icon.png
+Terminal=false
+Categories=AudioVideo;

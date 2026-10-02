@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=C Compiler
+Exec=env WINEPREFIX="/home/arky/.wine" wine-stable C:\\\\users\\\\arky\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\PIC-C\\\\C\\ Compiler.lnk
+Type=Application
+StartupNotify=true
+Comment=C Compiler
+Icon=F419_pcw.0
+StartupWMClass=pcw.exe

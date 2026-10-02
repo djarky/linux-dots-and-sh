@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Sameboy
+Comment=Gameboy Emu
+Exec=/home/arky/Programas/SameBoy_linsdl_v0.12.x/sameboy
+Icon=/home/arky/Programas/SameBoy_linsdl_v0.12.x/background.bmp
+Terminal=false
+Categories=Game;

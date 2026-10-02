@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=AudioVideo;
+Comment=modular synth
+Exec=/home/arky/Programas/synth/Rack2Free/Rack
+Icon=/home/arky/Programas/synth/Cardinal-linux-x86_64-26.02/docs/icon.png
+Name=RACK
+NoDisplay=false
+Path=/home/arky/Programas/synth/Rack2Free/
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

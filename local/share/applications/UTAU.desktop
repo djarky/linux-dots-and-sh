@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=UTAU
+Comment=
+Exec=/home/arky/Programas/synth/OpenUtau-linux-x64/OpenUtau
+Icon=/home/arky/Programas/synth/OpenUtau-linux-x64/openutau.png
+Terminal=false
+Categories=AudioVideo;

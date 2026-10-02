@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Quartus II 13.0sp1 (64-bit)
+Exec=/home/arky/altera/quartusII.sh
+Icon=/home/arky/altera/13.0sp1/quartus/adm/quartusii.png
+Name=Quartus II 13.0sp1 (64-bit) Web Edition
+NoDisplay=false
+Path=/home/arky/altera/13.0sp1
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=0.9.4
+X-KDE-SubstituteUID=false
+Categories=Development;Electronics;

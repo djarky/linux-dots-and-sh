@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=AudioVideo;
+Comment=FL
+Exec=env WINEPREFIX=/home/arky/wine-vst wine FL
+Icon=3101_FL.0
+Name=FL Studio
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

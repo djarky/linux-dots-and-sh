@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Emulicius
+Comment=gameboy emu
+Exec=java  -jar /home/arky/Programas/emulicius/Emulicious.jar
+Icon=/home/arky/Programas/SameBoy_linsdl_v0.12.x/background.bmp
+Terminal=false
+Categories=Game;

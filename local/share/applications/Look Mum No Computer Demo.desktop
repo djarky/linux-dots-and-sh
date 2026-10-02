@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Look Mum No Computer Demo
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/3660490
+Icon=steam_icon_3660490
+Terminal=false
+Type=Application
+Categories=Game;

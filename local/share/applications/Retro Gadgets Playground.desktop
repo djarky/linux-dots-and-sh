@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Retro Gadgets Playground
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/3225960
+Icon=steam_icon_3225960
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Retroarch
+Comment=
+Exec=/home/arky/Programas/retroarch/retroarch-linux-x86_64-stable/RetroArch-Linux-x86_64.AppImage
+Icon=/home/arky/Programas/retroarch/icon.png
+Terminal=false
+Categories=Game;

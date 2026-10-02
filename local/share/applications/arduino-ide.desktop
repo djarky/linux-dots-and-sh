@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Arduino IDE 2.3.6
+Comment=Arduino IDE integrado
+Exec=/home/arky/Programas/arduino/arduino-ide_2.3.6_Linux_64bit.AppImage --no-sandbox
+Icon=/home/arky/Programas/arduino/arduino-icon.png
+Terminal=false
+Type=Application
+Categories=Development;Electronics;

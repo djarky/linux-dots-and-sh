@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Aptoide
+Exec=waydroid app launch cm.aptoide.pt
+Icon=/home/arky/.local/share/waydroid/data/icons/cm.aptoide.pt.png
+Categories=X-WayDroid-App;
+X-Purism-FormFactor=Workstation;Mobile;
+Actions=app-settings;
+
+[Desktop Action app-settings]
+Name=App Settings
+Exec=waydroid app intent android.settings.APPLICATION_DETAILS_SETTINGS package:cm.aptoide.pt
+Icon=/home/arky/.local/share/waydroid/data/icons/com.android.settings.png

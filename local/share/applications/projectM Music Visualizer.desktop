@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=Game;AudioVideo;
+Comment=Pyko
+Exec=/home/arky/snap/steam/common/.local/share/Steam/steamapps/common/projectM/projectMSDL
+Icon=steam_icon_1358800
+Name=projectM Music Visualizer
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
